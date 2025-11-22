@@ -20,7 +20,8 @@ Tabela com as questões.
 
 | Problema                                                                                 | Dificuldade       | Método                          | Solução Código                                  | Solução comentada                               |
 |------------------------------------------------------------------------------------------|-------------------|----------------------------------|-------------------------------------------------|-------------------------------------------------|
-| - | - | - | - | - | 
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/) | Média | - | - | - | 
+| [1928 – Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | Difícil | - | - | - | 
 
 ## Gravação
 
