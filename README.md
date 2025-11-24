@@ -21,7 +21,7 @@ Tabela com as questões.
 | Problema                                                                                 | Dificuldade       | Método                          | Solução Código                                  | Solução comentada                               |
 |------------------------------------------------------------------------------------------|-------------------|----------------------------------|-------------------------------------------------|-------------------------------------------------|
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/) | Média | BFS | [207.py](questions/leetcode_207/207.py) | [207.md](questions/leetcode_207/207.md) | 
-| [1928 – Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | Difícil | - | - | - | 
+| [1928 – Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | Difícil | BFS | [1928.py](questions/leetcode_1928/1928.py) | [1928.md](questions/leetcode_1928/1928.md) | 
 
 ## Gravação
 
