@@ -25,8 +25,7 @@ Tabela com as questões.
 
 ## Gravação
 
-Assista ao vídeo: xx
-
+EDA2 - Grafos (questão 207 e 1928): https://youtu.be/0aF2YCiDs5k
 
 ## Instalação
 
