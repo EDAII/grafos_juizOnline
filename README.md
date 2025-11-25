@@ -16,12 +16,14 @@ Este repositório foi criado para a apresentação dos trabalhos da disciplina *
 
 ## Problemas Resolvidos
 
-Tabela com as questões.
+# Questões resolvidas
 
-| Problema                                                                                 | Dificuldade       | Método                          | Solução Código                                  | Solução comentada                               |
-|------------------------------------------------------------------------------------------|-------------------|----------------------------------|-------------------------------------------------|-------------------------------------------------|
+| Problema                                                                                 | Dificuldade | Método             | Solução Código                                  | Solução comentada                               |
+|------------------------------------------------------------------------------------------|--------------|--------------------|-------------------------------------------------|-------------------------------------------------|
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/) | Média | BFS | [207.py](questions/leetcode_207/207.py) | [207.md](questions/leetcode_207/207.md) | 
-| [1928 – Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | Difícil | BFS | [1928.py](questions/leetcode_1928/1928.py) | [1928.md](questions/leetcode_1928/1928.md) | 
+| [1928. Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | Difícil | BFS | [1928.py](questions/leetcode_1928/1928.py) | [1928.md](questions/leetcode_1928/1928.md) | 
+| [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | Média | Union-Find | [990.py](questions/leetcode_990/990.py) | [990.md](questions/leetcode_990/990.md) |
+| [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Difícil | DFS | [329.py](questions/leetcode_329/329.py) | [329.md](questions/leetcode_329/329.md) |
 
 ## Gravação
 
