@@ -1,4 +1,4 @@
-# Ordenação LeetCode
+# Grafos LeetCode
 Repositório com a entrega 4, Grafos.
 
 ## Alunos
