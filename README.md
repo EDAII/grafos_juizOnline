@@ -28,7 +28,13 @@ Este repositório foi criado para a apresentação dos trabalhos da disciplina *
 ## Gravação
 
 EDA2 - Grafos (questão 207 e 1928): https://youtu.be/0aF2YCiDs5k
+
 EDA2 - Grafos (questão 990 e 329): https://youtu.be/sn6OSYGRLSU
+
+### Gravação Unificada
+
+[![Assistir no YouTube](https://img.youtube.com/vi/4sPBzVL8rX8/hqdefault.jpg)](https://youtu.be/4sPBzVL8rX8)
+
 
 ## Instalação
 
